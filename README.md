@@ -172,7 +172,7 @@ To support this, the Sales Dashboard (tab: _Product Performance_) provides a qua
 
 ![Product Performance](Images/6.%20Product%20Performance.png)
 
-Based on the data, we draw several insights at the category level. To keep this section concise, only key findings and supporting numbers are highlighted here. Full details can be explored directly in the **Product Performance** tab of the shared Dashboard.
+Based on the data, I draw several insights at the category level. To keep this section concise, only key findings and supporting numbers are highlighted here. Full details can be explored directly in the **Product Performance** tab of the shared Dashboard.
 
 | Category | Current Status | Recommendation for H2 2025 |
 |----------|----------------|-----------------------------|
