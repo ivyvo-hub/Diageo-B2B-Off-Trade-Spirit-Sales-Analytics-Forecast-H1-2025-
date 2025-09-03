@@ -42,6 +42,7 @@ Actionable guidance for the Sales team, highlighting priority products, categori
 
 
 
+
 An interactive Power BI dashboard is available [here](https://app.powerbi.com/view?r=eyJrIjoiOTI3MTczZmYtYjFlZC00ZGQxLWE2NWYtNmE3NmI4NGI1MWZmIiwidCI6ImMxNmI5YjkzLTk4ZDUtNDNlOC1iNjc0LTg1ZjY3OWFkMzRjMyIsImMiOjEwfQ%3D%3D).
 
 The Python queries for data cleaning are available [here](../Notebooks/01_Data_Ingestion_%26_Cleaning.ipynb).
