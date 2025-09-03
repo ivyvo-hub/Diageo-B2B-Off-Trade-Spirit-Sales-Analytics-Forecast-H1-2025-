@@ -71,9 +71,7 @@ The Python queries for data cleaning is available [here](Notebooks/02_Explorator
 In H1 2025, Diageo Iowa generated **$26.8M revenue** from **177K orders** (AOV ~$152), down **–7.2% YoY** mainly due to order volume decline (–8.2%). At this pace, FY25 revenue is projected at **$62.8M**, leaving a **5% gap** to the +5% YoY growth target.
 
 Two factors explain the shortfall:
-
 - **Category dependence**: Whiskey (43% of sales) and Rum (13%) declines—driven by flagship variants _Crown Royal_ and _Captain Morgan_—outweigh gains in Tequila (+94.6% Don Julio Reposado) and RTD cocktails (+96.9%).
-    
 - **Store fragmentation**: No single geography drives losses; top stores contribute <5% each, with mixed performance even in hubs like Polk County.
 
 **Recommendation**: Pursue a **dual strategy**
