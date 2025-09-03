@@ -63,7 +63,7 @@ The original dataset is published by the State of Iowa [here](https://data.iowa
 
 Due to GitHub's 100MB file size limit, the clean data file is stored externally. You can download them [here](https://drive.google.com/drive/folders/1ZRJAlXUiVSlFWLSQEbODIKitI3hKUYLV?usp=sharing)  
 
-The Python queries for data cleaning is available [here](../Notebooks/02_Exploratory_Data_Analysis.ipynb).
+The Python queries for data cleaning is available [here](Notebooks/02_Exploratory_Data_Analysis.ipynb).
 
 ---
 # 3. Executive Summary
