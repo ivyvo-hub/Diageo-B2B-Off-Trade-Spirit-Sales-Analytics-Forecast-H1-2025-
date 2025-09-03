@@ -77,9 +77,7 @@ Two factors explain the shortfall:
 - **Store fragmentation**: No single geography drives losses; top stores contribute <5% each, with mixed performance even in hubs like Polk County.
 
 **Recommendation**: Pursue a **dual strategy**
-
    - (1) protect Whiskey/Rum while accelerating Tequila, Vodka and RTD growth, **leveraging small-format packs**
-   
    - (2) drive execution through CLV–growth store segmentation to prioritize Champions, recover Loyal Giants, develop Rising Stars, and manage At-Risk accounts.
 
 To complement this summary, I designed an interactive Power BI dashboard with three tabs: an Overview of H1 2025 performance (shown below), a Product Performance drilldown by category/variant, and a Store Performance segmentation by CLV and growth.
