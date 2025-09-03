@@ -1,7 +1,6 @@
 # Diageo B2B Off Trade Spirit Sales Analytics and Forecast H1 2025
 
 ## Table of Contents
-
 - [Project Background & Objective](#project-background--objective)
 - [Business Context](#business-context)
 - [Data Sources](#data-sources)
@@ -9,6 +8,7 @@
 - [Key Findings](#key-findings)
 - [Recommendations](#recommendations)
 - [Assumptions and Caveats](#assumptions-and-caveats)
+
 
 # **1. Project Background & Objective**
 
