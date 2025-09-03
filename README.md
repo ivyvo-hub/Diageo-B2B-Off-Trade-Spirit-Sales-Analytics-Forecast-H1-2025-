@@ -39,8 +39,11 @@ A review of H1 2025 results and forward outlook, covering:
 
 Actionable guidance for the Sales team, highlighting priority products, categories, and regions to focus resources and secure the 5% growth goal.
 
+
 An interactive Power BI dashboard is available [here](https://app.powerbi.com/view?r=eyJrIjoiOTI3MTczZmYtYjFlZC00ZGQxLWE2NWYtNmE3NmI4NGI1MWZmIiwidCI6ImMxNmI5YjkzLTk4ZDUtNDNlOC1iNjc0LTg1ZjY3OWFkMzRjMyIsImMiOjEwfQ%3D%3D).
+
 The Python queries for data cleaning is available [here](../Notebooks/01_Data_Ingestion_%26_Cleaning.ipynb).
+
 The Python queries for exploratory analysis is available [here](../Notebooks/02_Exploratory_Data_Analysis.ipynb).
 
 ---
