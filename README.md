@@ -1,38 +1,19 @@
 # Diageo B2B Off Trade Spirit Sales Analytics and Forecast H1 2025
 
 # Table of Contents
-<ol>
-  <li><a href="#1-project-background--objective">Project Background &amp; Objective</a></li>
-  <li><a href="#2-data-source--structure">Data Source &amp; Structure</a></li>
-  <li><a href="#3-executive-summary">Executive Summary</a></li>
-  <li>
-    <a href="#4-insights-deep-dive">Insights Deep-Dive</a>
-    <ul>
-      <li>
-        <a href="#diageos-h1-2025-sales-performance">Diageo's H1 2025 Sales Performance</a>
-        <ul>
-          <li>
-            <a href="#sales-drivers">Sales drivers</a>
-            <ul>
-              <li><a href="#sales-by-categoryvariant">Sales by Category/Variant</a></li>
-              <li><a href="#sales-by-countycitystore">Sales by County/City/Store</a></li>
-            </ul>
-          </li>
-          <li><a href="#fy-2025-sales-forecast">FY 2025 Sales Forecast</a></li>
-          <li><a href="#sales-performance--forecast-recap">Sales Performance &amp; Forecast Recap</a></li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-  <li>
-    <a href="#5-closing-the-gap-h2-2025-priorities--recommendation">Closing the Gap: H2 2025 Priorities &amp; Recommendation</a>
-    <ul>
-      <li><a href="#what-to-push-categoryvariant-strategy">What to push: Category/Variant strategy</a></li>
-      <li><a href="#where-to-act-store-level-strategy">Where to act: Store level strategy</a></li>
-    </ul>
-  </li>
-  <li><a href="#6-limitations--next-steps">Limitations &amp; Next Steps</a></li>
-</ol>
+1. [Project Background & Objective](#1-project-background--objective)  
+2. [Data Source & Structure](#2-data-source--structure)  
+3. [Executive Summary](#3-executive-summary)  
+4. [Insights Deep-Dive](#4-insights-deep-dive)  
+   - [Diageo's H1 2025 Sales Performance](#diageos-h1-2025-sales-performance)  
+   - [Sales drivers](#sales-drivers)   
+   - [FY 2025 Sales Forecast](#fy-2025-sales-forecast)  
+   - [Sales Performance & Forecast Recap](#sales-performance--forecast-recap)  
+5. [Closing the Gap: H2 2025 Priorities & Recommendation](#5-closing-the-gap-h2-2025-priorities--recommendation)  
+   - [What to push: Category/Variant strategy](#what-to-push-categoryvariant-strategy)  
+   - [Where to act: Store level strategy](#where-to-act-store-level-strategy)  
+6. [Limitations & Next Steps](#6-limitations--next-steps)  
+
 
 
 
