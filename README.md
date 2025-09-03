@@ -1,20 +1,21 @@
 # Diageo B2B Off Trade Spirit Sales Analytics and Forecast H1 2025
 
 # Table of Contents
-1. [Project Background & Objective](#1-project-background--objective)  
-2. [Data Source & Structure](#2-data-source--structure)  
-3. [Executive Summary](#3-executive-summary)  
-4. [Insights Deep-Dive](#4-insights-deep-dive)  
-   - [Diageo's H1 2025 Sales Performance](#diageos-h1-2025-sales-performance)  
-     - [Sales drivers](#sales-drivers)  
-       - [Sales by Category/Variant](#sales-by-categoryvariant)  
-       - [Sales by County/City/Store](#sales-by-countycitystore)  
-     - [FY 2025 Sales Forecast](#fy-2025-sales-forecast)  
-     - [Sales Performance & Forecast Recap](#sales-performance--forecast-recap)  
-5. [Closing the Gap: H2 2025 Priorities & Recommendation](#5-closing-the-gap-h2-2025-priorities--recommendation)  
-   - [What to push: Category/Variant strategy](#what-to-push-categoryvariant-strategy)  
-   - [Where to act: Store level strategy](#where-to-act-store-level-strategy)  
-6. [Limitations & Next Steps](#6-limitations--next-steps)  
+[1. Project Background & Objective](#1-project-background--objective)  
+[2. Data Source & Structure](#2-data-source--structure)  
+[3. Executive Summary](#3-executive-summary)  
+[4. Insights Deep-Dive](#4-insights-deep-dive)  
+- [Diageo's H1 2025 Sales Performance](#diageos-h1-2025-sales-performance)  
+  - [Sales drivers](#sales-drivers)  
+    - [Sales by Category/Variant](#sales-by-categoryvariant)  
+    - [Sales by County/City/Store](#sales-by-countycitystore)  
+  - [FY 2025 Sales Forecast](#fy-2025-sales-forecast)  
+  - [Sales Performance & Forecast Recap](#sales-performance--forecast-recap)  
+[5. Closing the Gap: H2 2025 Priorities & Recommendation](#5-closing-the-gap-h2-2025-priorities--recommendation)  
+- [What to push: Category/Variant strategy](#what-to-push-categoryvariant-strategy)  
+- [Where to act: Store level strategy](#where-to-act-store-level-strategy)  
+[6. Limitations & Next Steps](#6-limitations--next-steps)  
+
 
 # **1. Project Background & Objective**
 
