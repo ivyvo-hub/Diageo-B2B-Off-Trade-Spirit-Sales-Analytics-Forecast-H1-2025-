@@ -31,9 +31,9 @@ Insights and recommendations are provided in the following areas:
 **1. H1 Performance Assessment & H2 Forecast**:
 
 A review of H1 2025 results and forward outlook, covering:
-    - **Sales Size & Shape:** Total Revenue, Average order value and number of orders.
-    - **Sales Drivers:** A breakdown of sales contribution by top Categories, Variants, Retail Partners, and Geographic Areas (Counties/Cities).
-    - **Forward Outlook:** Baseline projection for H2 2025.
+   - **Sales Size & Shape:** Total Revenue, Average order value and number of orders.
+   - **Sales Drivers:** A breakdown of sales contribution by top Categories, Variants, Retail Partners, and Geographic Areas (Counties/Cities).
+   - **Forward Outlook:** Baseline projection for H2 2025.
 
 **2. Strategic Recommendations for H2:**
 
