@@ -5,7 +5,7 @@
 2. [Data Source & Structure](#2-data-source--structure)  
 3. [Executive Summary](#3-executive-summary)  
 4. [Insights Deep-Dive](#4-insights-deep-dive)
-    - [Diageo's H1 2025 Sales Performance](#diageos-h1-2025-sales-performance)  
+    ' [Diageo's H1 2025 Sales Performance](#diageos-h1-2025-sales-performance)  
     - [Sales drivers](#sales-drivers)   
     - [FY 2025 Sales Forecast](#fy-2025-sales-forecast)  
     - [Sales Performance & Forecast Recap](#sales-performance--forecast-recap)  
