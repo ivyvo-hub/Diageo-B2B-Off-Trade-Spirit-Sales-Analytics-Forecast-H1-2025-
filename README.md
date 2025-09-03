@@ -1,4 +1,15 @@
 # Diageo B2B Off Trade Spirit Sales Analytics and Forecast H1 2025
+
+## Table of Contents
+
+- [Project Background & Objective](#project-background--objective)
+- [Business Context](#business-context)
+- [Data Sources](#data-sources)
+- [Analysis Methodology](#analysis-methodology)
+- [Key Findings](#key-findings)
+- [Recommendations](#recommendations)
+- [Assumptions and Caveats](#assumptions-and-caveats)
+
 # **1. Project Background & Objective**
 
 > _This project is based on publicly available data from the Iowa State Government. The business context, objectives, and strategies are fictional, created to demonstrate data analytics and decision-making capabilities._
