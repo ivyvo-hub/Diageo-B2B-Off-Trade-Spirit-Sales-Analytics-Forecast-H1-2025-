@@ -61,8 +61,6 @@ For this analysis, I focus on ~6 million Diageo transactions from 2023 to H1 202
 
 The original dataset is published by the State of Iowa [here](https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy).
 
-This project uses the **Iowa Liquor Sales dataset**, published by the Iowa Department of Commerce (Alcoholic Beverages Division).  
-
 Due to GitHub's 100MB file size limit, the clean data file is stored externally. You can download them from the following link:  
 [Download Clean Data (Google Drive)](https://drive.google.com/drive/folders/1ZRJAlXUiVSlFWLSQEbODIKitI3hKUYLV?usp=sharing)  
 
