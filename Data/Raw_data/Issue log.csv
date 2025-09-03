@@ -1,0 +1,14 @@
+Variable	Issue Description	Issue Type	Resolved	Resolution Notes
+Date	Wrong data type	Wrong datatype	Y	"Change from ""object"" to ""datetime"""
+Store Name	Some store names have the same characters but inconsistent formatting	Formatting	Y	Standardize the formatting
+Address	Nulls	Nulls	N	Keep as it is because the null rate is low and this is not the critical variable
+City	Nulls	Nulls	N	Keep as it is because the null rate is low and this is not the critical variable
+	Some store names have the same characters but inconsistent formatting	Formatting	Y	Standardize the formatting
+Zip Code	Wrong data type	Wrong datatype	Y	"Change from ""float"" to ""object"" to keep Zip code start with ""0"" (e.g. 01234)"
+	Nulls	Nulls	N	Keep as it is because the null rate is low and this is not the critical variable
+Store Location	Nulls	Nulls	N	Keep as it is because the null rate is low and this is not the critical variable
+County Number	All Nulls	Nulls	Y	Delete column as it's all Null and it's not critical
+County	Nulls	Nulls	Y	Keep as it is because the null rate is low and this is not the critical variable
+Bottle Volume (ml)	Rename column to make it more concise	Unnecessarily complex phrasing	Y	"Change column name from ""Bottle Volume (ml)"" to ""Bottle Volume"""
+State Bottle Retail	"There are some transactions with ""0"" value"	Error	Y	Wrong data recording. Fixed by filling those transaction with formula: State Bottle Retail = Sale/Bottles Sold
+Sale (Dollars)	Rename column to make it more concise	Unnecessarily complex phrasing	Y	"Change column name from ""Sale (Dollars)"" to ""Sale"""

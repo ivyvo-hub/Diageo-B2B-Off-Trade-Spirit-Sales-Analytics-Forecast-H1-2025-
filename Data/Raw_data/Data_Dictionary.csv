@@ -1,0 +1,25 @@
+N.o;Variable;Variable description;Importance
+1;Invoice/Item Number;Unique identifier of the invoice/transaction;High
+2;Date;Date when the invoice was issued;High
+3;Store Number;Unique ID of the store;Medium
+4;Store Name;Name of the store;Medium
+5;Address;Street address of the store;Low
+6;City;City where the store is located;Low
+7;Zip Code;Postal code of the city;Low
+8;Store Location;Location description of the store;Medium
+9;County Number;Unique ID of the county;Low
+10;County;Name of the county;Low
+11;Category;Alcohol category code;Medium
+12;Category Name;Alcohol category name (e.g., 100% Vodka, mixto tequila,…);High
+13;Vendor Number;Unique ID of the vendor;Medium
+14;Vendor Name;Name of the vendor ;High
+15;Item Number;Unique ID of each liquor item;High
+16;Item Description;Full description of the liquor item (brand, type, volume, ABV, etc.);High
+17;Pack;Number of bottles per case (e.g., 12 means 1 unit = 12 bottles);Medium
+18;Bottle Volume (ml);Volume of a single bottle in milliliters;High
+19;State Bottle Cost;Wholesale cost per bottle from the state (USD);High
+20;State Bottle Retail;Retail price per bottle as set by the state (USD);Medium
+21;Bottles Sold;Number of bottles sold in this transaction;High
+22;Sale (Dollars);Total revenue from the transaction (Bottles Sold × Retail Price);Medium
+23;Volume Sold (Liters);Total volume sold in liters;Medium
+24;Volume Sold (Gallons);Total volume sold in U.S. gallons;Medium
