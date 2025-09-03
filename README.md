@@ -13,40 +13,6 @@ Table of Contents
    5.2 [Where to act: Store level strategy](#where-to-act-store-level-strategy)  
 6. [Limitations & Next Steps](#6-limitations--next-steps)  
 ---
-# **1. Project Background & Objective**
-
-> _This project is based on publicly available data from the Iowa State Government. The business context, objectives, and strategies are fictional, created to demonstrate data analytics and decision-making capabilities._
-
-Diageo, a global leader in spirits, is aiming to strengthen its position in North America—its largest market. Performance across states, however, varies due to regulatory and market structures. Iowa, with its control-state model, serves as a critical region for commercial execution.
-
-Building on strong 2024 results, the Iowa Sales team has set an ambitious **5% YoY growth target** for FY2025 in the B2B off-trade channel. With the year now at its **midpoint**, this is the right moment to evaluate progress and adjust tactics.
-
-This project delivers an **interactive sales dashboard** to support this frontline team beyond static reporting.
-
-The analysis centers on one business question:  
-**“Are we on track to reach our 5% growth target—and what actions should we take in the next six months to ensure we hit it?”**
-
-Insights and recommendations are provided in the following areas:
-
-**1. H1 Performance Assessment & H2 Forecast**:
-
-A review of H1 2025 results and forward outlook, covering:
-   - **Sales Size & Shape:** Total Revenue, Average order value and number of orders.
-   - **Sales Drivers:** A breakdown of sales contribution by top Categories, Variants, Retail Partners, and Geographic Areas (Counties/Cities).
-   - **Forward Outlook:** Baseline projection for H2 2025.
-
-**2. Strategic Recommendations for H2:**
-
-Actionable guidance for the Sales team, highlighting priority products, categories, and regions to focus resources and secure the 5% growth goal.
-
-
-An interactive Power BI dashboard is available [here](https://app.powerbi.com/view?r=eyJrIjoiOTI3MTczZmYtYjFlZC00ZGQxLWE2NWYtNmE3NmI4NGI1MWZmIiwidCI6ImMxNmI5YjkzLTk4ZDUtNDNlOC1iNjc0LTg1ZjY3OWFkMzRjMyIsImMiOjEwfQ%3D%3D).
-
-The Python queries for data cleaning is available [here](../Notebooks/01_Data_Ingestion_%26_Cleaning.ipynb).
-
-The Python queries for exploratory analysis is available [here](../Notebooks/02_Exploratory_Data_Analysis.ipynb).
-
-
 # 1. Project Background & Objective
 
 > _This project is based on publicly available data from the Iowa State Government. The business context, objectives, and strategies are fictional, created to demonstrate data analytics and decision-making capabilities._
@@ -73,6 +39,7 @@ A review of H1 2025 results and forward outlook, covering:
 ## 2. Strategic Recommendations for H2
 
 Actionable guidance for the Sales team, highlighting priority products, categories, and regions to focus resources and secure the 5% growth goal.
+
 
 
 An interactive Power BI dashboard is available [here](https://app.powerbi.com/view?r=eyJrIjoiOTI3MTczZmYtYjFlZC00ZGQxLWE2NWYtNmE3NmI4NGI1MWZmIiwidCI6ImMxNmI5YjkzLTk4ZDUtNDNlOC1iNjc0LTg1ZjY3OWFkMzRjMyIsImMiOjEwfQ%3D%3D).
