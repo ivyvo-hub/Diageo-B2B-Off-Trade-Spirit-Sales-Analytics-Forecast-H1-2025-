@@ -172,7 +172,7 @@ To support this, the Sales Dashboard (tab: _Product Performance_) provides a qua
 
 ![Product Performance](Images/6.%20Product%20Performance.png)
 
-Based on the data, I draw several insights at the category level. To keep this section concise, only key findings and supporting numbers are highlighted here. Full details can be explored directly in the **Product Performance** tab of the shared Dashboard.
+Based on the data, I draw several insights at the category level. To keep this section concise, only key findings and supporting numbers are highlighted here. Full details can be explored directly in the **Product Performance** tab of the shared Dashboard, or [here](https://app.powerbi.com/view?r=eyJrIjoiOTI3MTczZmYtYjFlZC00ZGQxLWE2NWYtNmE3NmI4NGI1MWZmIiwidCI6ImMxNmI5YjkzLTk4ZDUtNDNlOC1iNjc0LTg1ZjY3OWFkMzRjMyIsImMiOjEwfQ%3D%3D).
 
 | Category | Current Status | Recommendation for H2 2025 |
 |----------|----------------|-----------------------------|
@@ -198,7 +198,7 @@ While category priorities set the **growth formula**, execution depends on store
     
 - **At-Risk Accounts (Low CLV, Declining Growth)** → Low priority; selective intervention.
 
-Full segmentation details are available in the _Store Performance_ tab of the dashboard.
+Full segmentation details are available in the _Store Performance_ tab of the dashboard, or [here](https://app.powerbi.com/view?r=eyJrIjoiOTI3MTczZmYtYjFlZC00ZGQxLWE2NWYtNmE3NmI4NGI1MWZmIiwidCI6ImMxNmI5YjkzLTk4ZDUtNDNlOC1iNjc0LTg1ZjY3OWFkMzRjMyIsImMiOjEwfQ%3D%3D).
 
 ![Store Performance](Images/7.%20Store%20Performance.png)
 
